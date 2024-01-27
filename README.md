@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on MERN stack projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ♟️ e4 or e5 
-- 📫 How to reach me: vansh_r@ch.iitr.ac.in
+- 📫 How to reach me: vanshruhelavansh@gmail.com
 <!-- - 😄 Pronouns:  -->
 <!-- - ⚡ Fun fact: ... -->
 
